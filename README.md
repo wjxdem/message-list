@@ -8,7 +8,7 @@
 
 #### 使用vuejs
 
-[https://github.com/wjxdem/message-list.git]
+https://github.com/wjxdem/message-list.git
 
 ### 1、安装依赖
 ```
